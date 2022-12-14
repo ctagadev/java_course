@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+package section2;
+
+>>>>>>> Stashed changes
 public class TypeConversion2 {
     public static void main(String[] args) {
 

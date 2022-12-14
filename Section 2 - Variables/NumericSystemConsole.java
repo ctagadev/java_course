@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+package section2;
+
+>>>>>>> Stashed changes
 import java.util.Scanner;
 
 public class NumericSystemConsole {

@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+package section2;
+
+>>>>>>> Stashed changes
 import javax.swing.*;
 
 public class NumericSystemGuiErrorControl {

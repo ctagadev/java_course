@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+package section2;
+>>>>>>> Stashed changes
 public class HelloWorldVariable {
     public static void main(String[] args) {
         String greeting = "Hello World!";
